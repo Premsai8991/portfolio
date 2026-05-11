@@ -291,6 +291,12 @@ body {
   margin-top: 12px;
   color: var(--text-light);
   font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.project-card .btn {
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
 
 .project-grid {
