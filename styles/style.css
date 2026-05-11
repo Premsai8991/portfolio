@@ -286,6 +286,13 @@ body {
 }
 
 /* Projects / Research cards */
+.project-note {
+  display: block;
+  margin-top: 12px;
+  color: var(--text-light);
+  font-size: 0.85rem;
+}
+
 .project-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
